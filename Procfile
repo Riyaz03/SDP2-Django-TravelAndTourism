@@ -1,0 +1,1 @@
+web: gunicorn TravelAndTourism.wsgi --log-file -
